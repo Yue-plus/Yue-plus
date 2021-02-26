@@ -12,3 +12,7 @@
 - 正在努力自学 `Java`、`Kotlin`、`Spring 全家桶`……
 - 欢迎通过 [Issues](https://github.com/Yue-plus/Yue-plus/issues/new) 给我留言。
 - 邮箱私聊 `Yue_plus@foxmail.com`
+
+## 好友们
+
+- [小栗博客](http://blog.ligzs.cn/)
