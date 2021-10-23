@@ -1,7 +1,7 @@
 欢迎访问我的 GitHub 主页~
 ------
 
-- 开了 Minecraft 服务器~ 服务器IP: `mc.YuePlus.ink:25565` 版本：1.17.1；[加入QQ群](https://jq.qq.com/?_wv=1027&k=3Ec6yIbd)
+- 开了 Minecraft 服务器~ 服务器IP: `mc.YuePlus.ink:25565` 版本：1.17.1（开启正版验证）；[加入QQ群](https://jq.qq.com/?_wv=1027&k=3Ec6yIbd)
 - 参与翻译：
   + [Kotlin 语言中文站](https://www.kotlincn.net/)
   + [面向 Python 开发者的 Kotlin 教程](https://github.com/Yue-plus/kotlin-for-python-developers-cn)
