@@ -1,7 +1,8 @@
 欢迎访问我的 GitHub 主页~
 ------
 
-- 开了 Minecraft 服务器\~欢迎 [加入QQ群 539436053](https://jq.qq.com/?_wv=1027&k=3Ec6yIbd) 一起 Van 游戏\~
+- 开了 Minecraft 皮肤站：<https://skin.mc.Yue.Zone/>
+- 开了 Minecraft 服务器\~ 欢迎 [加入QQ群 539436053](https://jq.qq.com/?_wv=1027&k=3Ec6yIbd) 一起 Van 游戏\~
 - 参与翻译：
   + [Kotlin 语言中文站](https://www.kotlincn.net/)
   + [面向 Python 开发者的 Kotlin 教程](https://github.com/Yue-plus/kotlin-for-python-developers-cn)
