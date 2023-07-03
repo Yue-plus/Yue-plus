@@ -15,6 +15,7 @@
 <!-- - 汉化本子？<https://github.com/Yue-plus/S-I-C-P> -->
 
 - 正在努力自学 `Flutter/Dart`、`Java`、`Kotlin`、`Spring 全家桶`……
+- 想看看我的笔记本吗？<https://note.yue.zone/>
 - 欢迎通过 [Issues](https://github.com/Yue-plus/Yue-plus/issues/new) 给我留言。
 - 邮箱私聊 `Yue_plus@foxmail.com`
 
