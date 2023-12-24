@@ -21,4 +21,4 @@
 
 ## 好友们
 
-- [小栗博客](http://blog.ligzs.cn/)
+- [小栗博客](https://b.ligzs.com/)
