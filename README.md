@@ -17,5 +17,5 @@
 
 ## 好友们
 
-- [小栗博客](https://b.ligzs.com/)
+- [小栗博客](https://b.liy.ink/)
 - [吃土的小智](https://ctdxz.com/)
