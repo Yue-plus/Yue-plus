@@ -1,7 +1,7 @@
 欢迎访问我的 GitHub 主页~
 ------
 
-- **正在求职！！！！！！！！** 来看看我的 [在线简历](http://resume-cv.astro.yue.zone/) （给个班上吧，球球了
+- 来看看我的 [在线简历](http://resume-cv.astro.yue.zone/) ，如果您能为我提供每月八千元人民币的薪资，我很乐意为您效劳。
 <!-- - 开了 Minecraft 皮肤站：<https://skin.mc.Yue.Zone/> -->
 <!-- - 开了 Minecraft 服务器 -->
 - 欢迎 [加入QQ群 539436053](https://jq.qq.com/?_wv=1027&k=3Ec6yIbd) 一起 Van 游戏
